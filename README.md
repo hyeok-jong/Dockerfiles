@@ -22,7 +22,7 @@ tmux kill-session -t session_name
 Enter a Docker container in the terminal: `docker exec -it container_name /bin/bash`  
 
 # 1. Basic Concept of Docker  
-Docker can set up environments more comprehensively than conda.  
+Docker can set up environments more deeply than conda.  
 Here's the order:  
 1. Docker Image  
 2. Docker Container  
