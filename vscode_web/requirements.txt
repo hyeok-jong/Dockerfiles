@@ -1,0 +1,21 @@
+
+
+torch
+torchvision
+timm
+statsmodels
+theme-darcula
+tqdm
+black
+isort
+aquirdturtle_collapsible_headings
+wandb
+einops
+munch
+# tsai
+scikit-learn
+matplotlib
+seaborn
+PyWavelets
+captum
+python-language-server[all]
